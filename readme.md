@@ -2,6 +2,8 @@
 
 This is a simple module that takes an [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements) and returns the [regional indicator symbol](https://en.wikipedia.org/wiki/Regional_Indicator_Symbol) pair that corresponds to a given emoji flag.
 
+Started as a form from [michaelrhodes/emoji-flag](https://github.com/michaelrhodes/emoji-flag).
+
 [![Build status](https://travis-ci.org/michaelrhodes/emoji-flag.png?branch=master)](https://travis-ci.org/michaelrhodes/emoji-flag)
 
 ## Install
